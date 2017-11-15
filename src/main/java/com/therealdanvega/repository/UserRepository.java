@@ -1,12 +1,12 @@
 package com.therealdanvega.repository;
 
-import com.therealdanvega.model.Task;
-
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
+import com.therealdanvega.model.User;
+
 @Repository
-public interface TaskRepository extends CrudRepository<Task,Long> {
+public interface UserRepository extends CrudRepository<User,Long> {
 
 	
 

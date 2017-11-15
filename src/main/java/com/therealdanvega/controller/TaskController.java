@@ -2,8 +2,8 @@ package com.therealdanvega.controller;
 
 import java.util.List;
 
-import com.therealdanvega.domain.Response;
-import com.therealdanvega.domain.Task;
+import com.therealdanvega.model.Response;
+import com.therealdanvega.model.Task;
 import com.therealdanvega.service.TaskService;
 
 import org.slf4j.Logger;

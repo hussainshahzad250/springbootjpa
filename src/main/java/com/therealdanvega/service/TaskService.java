@@ -2,7 +2,7 @@ package com.therealdanvega.service;
 
 import java.util.List;
 
-import com.therealdanvega.domain.Task;
+import com.therealdanvega.model.Task;
 
 public interface TaskService {
 

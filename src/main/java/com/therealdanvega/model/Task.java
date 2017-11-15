@@ -1,4 +1,4 @@
-package com.therealdanvega.domain;
+package com.therealdanvega.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 
