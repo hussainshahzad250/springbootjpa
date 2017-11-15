@@ -8,6 +8,8 @@ import com.therealdanvega.model.User;
 @Repository
 public interface UserRepository extends CrudRepository<User,Long> {
 
+	User getByEmail(String email);
+
 	
 
 }
